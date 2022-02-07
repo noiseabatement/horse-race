@@ -1,0 +1,197 @@
+hr {
+    background-color: rgb(17, 17, 17);
+    border: 0 none;
+    color: rgb(230, 6, 40);
+    height: 5px;
+    font-size: 1em;
+}
+
+span{
+    size: 100%;
+    font-size: 60px;
+    display: inline-block;
+}
+
+
+
+.horse_1{   
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    position: relative;    
+    
+    border: 1px solid black;
+    height: 50px;
+    width: 68px;  
+    border-radius: 50%;
+    background-image: url('blackhorse.png'); 
+    
+    animation-name: horse_1; 
+    animation-duration: 30s; 
+    animation-fill-mode: forwards; 
+    animation-timing-function: cubic-bezier(0.165, 0.84, 0.44, 1);  
+}
+
+@keyframes horse_1{
+    0%{
+        left: 10px;
+    }
+   
+
+    100%{
+        left: 1000px;
+    }
+    
+}
+
+.horse_2{   
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    position: relative;    
+    
+    border: 1px solid black;
+    height: 50px;
+    width: 68px;  
+    border-radius: 50%;
+    background-image: url('blackhorse.png'); 
+    
+    animation-name: horse_2; 
+    animation-duration: 30s; 
+    animation-fill-mode: forwards; 
+    animation-timing-function: cubic-bezier(0.6, 0.04, 0.98, 0.335);  
+
+}
+
+@keyframes horse_2{
+    0%{
+        left: 10px;
+    }
+   
+
+    100%{
+        left: 1000px;
+    }
+    
+}
+
+.horse_3{   
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    position: relative;    
+    
+    border: 1px solid black;
+    height: 50px;
+    width: 68px;  
+    border-radius: 50%;
+    background-image: url('blackhorse.png'); 
+    
+    animation-name: horse_3; 
+    animation-duration: 30s; 
+    animation-fill-mode: forwards; 
+    animation-timing-function: cubic-bezier(0.19, 1, 0.22, 1);  
+}
+
+@keyframes horse_3{
+    0%{
+        left: 10px;
+    }
+   
+
+    100%{
+        left: 1000px;
+    }
+    
+}
+
+.horse_4{   
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    position: relative;    
+    
+    border: 1px solid black;
+    height: 50px;
+    width: 68px;  
+    border-radius: 50%;
+    background-image: url('blackhorse.png'); 
+    
+    animation-name: horse_4; 
+    animation-duration: 30s; 
+    animation-fill-mode: forwards; 
+    animation-timing-function: cubic-bezier(0.455, 0.03, 0.515, 0.955);  
+}
+
+@keyframes horse_4{
+    0%{
+        left: 10px;
+    }
+   
+
+    100%{
+        left: 1000px;
+    }
+    
+}
+
+.horse_5{   
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    position: relative;    
+    
+    border: 1px solid black;
+    height: 50px;
+    width: 68px;  
+    border-radius: 50%;
+    background-image: url('blackhorse.png'); 
+    
+    animation-name: horse_5; 
+    animation-duration: 30s; 
+    animation-fill-mode: forwards; 
+    animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);  
+
+}
+
+@keyframes horse_5{
+    0%{
+        left: 10px;
+    }
+   
+
+    100%{
+        left: 1000px;
+    }
+    
+}
+
+.horse_6{   
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    position: relative;    
+    
+    border: 1px solid black;
+    height: 50px;
+    width: 68px;  
+    border-radius: 50%;
+    background-image: url('blackhorse.png'); 
+    
+    animation-name: horse_6; 
+    animation-duration: 30s; 
+    animation-fill-mode: forwards; 
+    animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.06);  
+}
+
+@keyframes horse_6{
+    0%{
+        left: 10px;
+    }
+   
+
+    100%{
+        left: 1000px;
+    }
+    
+}
